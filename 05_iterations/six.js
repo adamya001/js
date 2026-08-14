@@ -21,8 +21,6 @@ myNums.forEach( (num) => {
 
 // console.log(newNums)
 
-// Map
-
 const mynewArr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
 const newArr = mynewArr.map( (num)=> {return num + 10})
